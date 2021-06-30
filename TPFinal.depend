@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1395408560 source:/home/pablo/Dropbox/Facultad/Programaci贸n 2/TPFinal/main.c
+	<stdio.h>
+	<stdlib.h>
+	<curses.h>
+	<errno.h>
+	<string.h>
+	<menu.h>
+	"pablo.h"
+	"sistema.h"
+
+1395408560 "
+
+1394228292 /home/pablo/Dropbox/Facultad/Programaci贸n 2/TPFinal/menu.h
+	<string.h>
+	<curses.h>
+
+1394228292 
+
+1394578559 /home/pablo/Dropbox/Facultad/Programaci贸n 2/TPFinal/pablo.h
+
+1395409406 /home/pablo/Dropbox/Facultad/Programaci贸n 2/TPFinal/sistema.h
+	<menu.h>
+	<ctype.h>
+
+1401734149 
+
+1401754761 source:c:\users\pablo\dropbox\facultad\programaci髇 2\tpfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ncursesw/curses.h>
+	<errno.h>
+	<string.h>
+	<ncursesw/menu.h>
+	"pablo.h"
+	"sistema.h"
+	"listas.h"
+	"pilasycolas.h"
+
+1401754761 as.h"
+
+1401407532 c:\users\pablo\dropbox\facultad\programaci髇 2\tpfinal\pablo.h
+
+1401734149 c:\users\pablo\dropbox\facultad\programaci髇 2\tpfinal\sistema.h
+	<ncursesw/menu.h>
+	<ctype.h>
+
+1402075884 c:\users\pablo\dropbox\facultad\programaci髇 2\tpfinal\listas.h
+
+1402074448 c:\users\pablo\dropbox\facultad\programaci髇 2\tpfinal\pilasycolas.h
+
+1401754761 source:/home/pablo/Dropbox/Facultad/Programaci贸n 2/TPFinal/main.c
+	<stdio.h>
+	<stdlib.h>
+	<ncursesw/curses.h>
+	<errno.h>
+	<string.h>
+	<ncursesw/menu.h>
+	"pablo.h"
+	"sistema.h"
+	"listas.h"
+	"pilasycolas.h"
+
+1401407532 /home/pablo/Dropbox/Facultad/Programaci贸n 2/TPFinal/pablo.h
+
+1401734149 /home/pablo/Dropbox/Facultad/Programaci贸n 2/TPFinal/sistema.h
+	<ncursesw/menu.h>
+	<ctype.h>
+
+1402075884 /home/pablo/Dropbox/Facultad/Programaci贸n 2/TPFinal/listas.h
+
+1402074448 /home/pablo/Dropbox/Facultad/Programaci贸n 2/TPFinal/pilasycolas.h
+
